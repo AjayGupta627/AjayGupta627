@@ -1,6 +1,7 @@
-<h3 align="center">Hi, I Am Ajay Gupta</h3>
-<h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="coding" width="400" srs="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGh4YmtTS3FZeFZrcm1CMEl3VkVUeG95SllWZ3xBQ3Jtc0trWlc4bXFMVkVLaVBrb3ZqS3dudC1WNGx6VkRfZjJGLW1sYkQwRFRQd3B0NnU3OXhBemdsSVRJbWlvNXI5M2V5Q0hrZHN5TXNId2NZRndrMFdlV3djZXR3cjVpTTFtT003VEtaZG1TWF9Pam9vclUtSQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<h1 align="center">Hi 👋, I'm Ajay Gupta</h1>
+<h3 align="center">A passionate Programmer from India</h3>
+<img alt="Coding Image" align="right" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="display:block; margin: 0 auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygupta627&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygupta627" /> </p>
 
